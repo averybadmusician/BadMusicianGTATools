@@ -1,4 +1,4 @@
-# BadMusicianGTATools
+# GTA V Development Tools: In-Game
 
 In-Game Tools plugin for https://badm.dev/gta/
 
